@@ -1,2 +1,2 @@
 # welcome-to-course
-Initial Project with Udacity to gauge understanding
+Small project that allowed me to gauge my basic understanding of data analysis. Here, I analysed Weather trends.
